@@ -28,3 +28,7 @@ This model is then compared to an Azure AutoML run.
 
 ## Proof of cluster clean up
 By performing this command in Powershell: ``Clear-ClusterNode -Name node4 -Force``
+
+## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
